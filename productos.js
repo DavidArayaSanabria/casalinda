@@ -1,0 +1,58 @@
+export const productos = [
+  {
+    id: 1,
+    img: "recursos/mesacasalinda.jpeg",
+    nombre: "Mesa",
+    precio: "180 000",
+    descripcion: "Ejemplo descripcion producto 1",
+  },
+  {
+    id: 2,
+    img: "recursos/espejo.jpeg",
+    nombre: "Espejo",
+    precio: "210 000",
+    descripcion: "Ejemplo descripcion producto 2",
+  },
+  {
+    id: 3,
+    img: "recursos/espejos.jpeg",
+    nombre: "Espejos",
+    precio: "80 000 c/u",
+    descripcion: "Ejemplo descripcion producto 3",
+  },
+  {
+    id: 4,
+    img: "recursos/mesa-noche.jpeg",
+    nombre: "Mesa de noche",
+    precio: "110 000",
+    descripcion: "Ejemplo descripcion producto 4",
+  },
+  {
+    id: 5,
+    img: "recursos/silla.jpeg",
+    nombre: "Silla",
+    precio: "50 000 c/u",
+    descripcion: "Ejemplo descripcion producto 5",
+  },
+  {
+    id: 6,
+    img: "recursos/sillas.jpeg",
+    nombre: "Silla Francesa",
+    precio: "60 000 c/u",
+    descripcion: "Ejemplo descripcion producto 6",
+  },
+  {
+    id: 7,
+    img: "recursos/mesaclara.jpeg",
+    nombre: "Mesa",
+    precio: "150 000",
+    descripcion: "Ejemplo descripcion producto 6",
+  },
+  {
+    id: 8,
+    img: "recursos/respaldar.jpeg",
+    nombre: "Silla",
+    precio: "60 000 c/u",
+    descripcion: "Ejemplo descripcion producto 6",
+  },
+];
